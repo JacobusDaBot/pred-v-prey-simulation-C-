@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NetDrive\\coding\\c#\\pred v prey\\Predator vs prey console with graph\\PredatorVPreyConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83AFEA13-32EE-4A96-B1C9-0895778CD820}|PredatorVPreyConsoleApp.csproj|d:\\netdrive\\coding\\c#\\pred v prey\\predator vs prey console with graph\\predatorvpreyconsoleapp\\programmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AFEA13-32EE-4A96-B1C9-0895778CD820}|PredatorVPreyConsoleApp.csproj|solutionrelative:programmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AFEA13-32EE-4A96-B1C9-0895778CD820}|PredatorVPreyConsoleApp.csproj|D:\\NetDrive\\coding\\c#\\pred v prey\\Predator vs prey console with graph\\PredatorVPreyConsoleApp\\prey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AFEA13-32EE-4A96-B1C9-0895778CD820}|PredatorVPreyConsoleApp.csproj|solutionrelative:prey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AFEA13-32EE-4A96-B1C9-0895778CD820}|PredatorVPreyConsoleApp.csproj|D:\\NetDrive\\coding\\c#\\pred v prey\\Predator vs prey console with graph\\PredatorVPreyConsoleApp\\environmentthings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AFEA13-32EE-4A96-B1C9-0895778CD820}|PredatorVPreyConsoleApp.csproj|solutionrelative:environmentthings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AFEA13-32EE-4A96-B1C9-0895778CD820}|PredatorVPreyConsoleApp.csproj|D:\\NetDrive\\coding\\c#\\pred v prey\\Predator vs prey console with graph\\PredatorVPreyConsoleApp\\predator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AFEA13-32EE-4A96-B1C9-0895778CD820}|PredatorVPreyConsoleApp.csproj|solutionrelative:predator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 399,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgramMain.cs",
+              "DocumentMoniker": "D:\\NetDrive\\coding\\c#\\pred v prey\\Predator vs prey console with graph\\PredatorVPreyConsoleApp\\ProgramMain.cs",
+              "RelativeDocumentMoniker": "ProgramMain.cs",
+              "ToolTip": "D:\\NetDrive\\coding\\c#\\pred v prey\\Predator vs prey console with graph\\PredatorVPreyConsoleApp\\ProgramMain.cs",
+              "RelativeToolTip": "ProgramMain.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAgwLIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:17:47.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnvironmentThings.cs",
+              "DocumentMoniker": "D:\\NetDrive\\coding\\c#\\pred v prey\\Predator vs prey console with graph\\PredatorVPreyConsoleApp\\EnvironmentThings.cs",
+              "RelativeDocumentMoniker": "EnvironmentThings.cs",
+              "ToolTip": "D:\\NetDrive\\coding\\c#\\pred v prey\\Predator vs prey console with graph\\PredatorVPreyConsoleApp\\EnvironmentThings.cs",
+              "RelativeToolTip": "EnvironmentThings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T06:44:29.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prey.cs",
+              "DocumentMoniker": "D:\\NetDrive\\coding\\c#\\pred v prey\\Predator vs prey console with graph\\PredatorVPreyConsoleApp\\Prey.cs",
+              "RelativeDocumentMoniker": "Prey.cs",
+              "ToolTip": "D:\\NetDrive\\coding\\c#\\pred v prey\\Predator vs prey console with graph\\PredatorVPreyConsoleApp\\Prey.cs",
+              "RelativeToolTip": "Prey.cs",
+              "ViewState": "AQIAAB8BAAAAAAAAAAAswD4BAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T06:44:02.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Predator.cs",
+              "DocumentMoniker": "D:\\NetDrive\\coding\\c#\\pred v prey\\Predator vs prey console with graph\\PredatorVPreyConsoleApp\\Predator.cs",
+              "RelativeDocumentMoniker": "Predator.cs",
+              "ToolTip": "D:\\NetDrive\\coding\\c#\\pred v prey\\Predator vs prey console with graph\\PredatorVPreyConsoleApp\\Predator.cs",
+              "RelativeToolTip": "Predator.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAAAAAPoAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T06:43:33.542Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
